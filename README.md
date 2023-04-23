@@ -52,7 +52,7 @@
 * I applied the ROBUSTSCALER operation for variables with outliers.
 
 # EDA 
-* I used a pie chart to visualize the percentages of bank customers' genders.
+* I used a pie chart to visualize the percentages of bank customers' genders
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/gender_pie.png "Gender Pie")
 
 * I had a pie chart drawn to get information about the age distribution of the customers in the bank.
@@ -83,7 +83,7 @@
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/class_report.png "Classification Report")
 
 # APP
-* Since it performs many operations through the parameters entered during the application, I created a file called Module.py that contains all the methods that perform these operations. And this library is imported into the app application, and the entered data is processed to be converted into a format suitable for the model.
+* Since it performs many operations through the parameters entered during the application, I created a file called Module.py that contains all the methods that perform these operations. And this library is imported into the app application, and the entered data is processed to be converted into a format suitable for the model
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/app.png "App")
 
 
