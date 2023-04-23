@@ -10,17 +10,17 @@
 # Project Overview
 * Purpose of the project I did: I developed a model with XGBoost by performing churn analysis so that banks can predict whether their customers will abandon them. And the accuracy score value of the model I developed is 0.90.
 * The variables in the dataset I used for the project are as follows:
-  * CreditScore-->Customer's credit score
-	* Geography-->Customer's country of residence
-	* Gender-->Gender of the customer 
-	* Age-->Customer's Age
-	* Tenure-->Time of working with the customer bank (in years)
-	* Balance-->Balance in the customer's account
-	* NumOfProducts--->Number of products used by the customer from the bank
-	* HasCrCard--> Whether the customer has a credit card
-	* IsActiveMember--> Whether the customer is an active customer of the bank (0: not, 1: yes)
-	* EstimatedSalary-->Client's estimated salary
-	* Exited--> Whether the customer has left the bank (0: no, 1: yes)
+  	* **CreditScore** : Customer's credit score
+	* **Geography** : Customer's country of residence
+	* **Gender** : Gender of the customer 
+	* **Age** : Customer's Age
+	* **Tenure** : Time of working with the customer bank (in years)
+	* **Balance** : Balance in the customer's account
+	* **NumOfProducts** : Number of products used by the customer from the bank
+	* **HasCrCard** : Whether the customer has a credit card
+	* **IsActiveMember** : Whether the customer is an active customer of the bank (0: not, 1: yes)
+	* **EstimatedSalary** : Client's estimated salary
+	* **Exited** : Whether the customer has left the bank (0: no, 1: yes)
 * Built a client facing API using streamlit
 
 # Code and Resources Used:
@@ -48,8 +48,11 @@
 
 
 * I had the boxplot plot drawn to detect outliers in the variables.
+
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/boxplot.png "Boxplot")
+
 * I applied the ROBUSTSCALER operation for variables with outliers.
+
 
 # EDA 
 * I used a pie chart to visualize the percentages of bank customers' genders
@@ -70,7 +73,7 @@
 
 
 * I used a pie chart to visualize the percentages of customers in the bank by country
-* 
+
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/geo_pie.png "Geography Pie")
 
 
