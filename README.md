@@ -53,30 +53,38 @@
 
 # EDA 
 * I used a pie chart to visualize the percentages of bank customers' genders
+* 
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/gender_pie.png "Gender Pie")
 
 * I had a pie chart drawn to get information about the age distribution of the customers in the bank.
+* 
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/age_pie.png "Age Pie")
 
 * I had a pie chart drawn to get information about the credit scores of the customers in the bank.
+* 
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/creditscore_pie.png "Credit Score Pie")
 
 * I used a pie chart to see what percentage of customers at the bank have credit cards
+* 
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/hascrcard_pie.png "Has Cr Card Pie")
 
 
 * I used a pie chart to visualize the percentages of customers in the bank by country
+* 
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/geo_pie.png "Geography Pie")
 
 
 * I calculated the number of churns of women and men in countries with the Groupby method.
+* 
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/groupby_1.png "GroupBy_1")
 
 * I use groupby to calculate which age women and men are the most churn 
+* 
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/groupby_2.png "GroupBy_2")
 
 # Model Building 
 * I used the lazypredict library to find the model with the highest success in the shortest time
+* 
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/models.png "Models")
 
 * I used the XGBoost algorithm in line with the graphic above.
@@ -84,6 +92,7 @@
 
 # APP
 * Since it performs many operations through the parameters entered during the application, I created a file called Module.py that contains all the methods that perform these operations. And this library is imported into the app application, and the entered data is processed to be converted into a format suitable for the model
+* 
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/app.png "App")
 
 
