@@ -61,11 +61,11 @@
 * I had a pie chart drawn to get information about the credit scores of the customers in the bank.
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/creditscore_pie.png "Credit Score Pie")
 
-* •	I used a pie chart to see what percentage of customers at the bank have credit cards
+* I used a pie chart to see what percentage of customers at the bank have credit cards
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/hascrcard_pie.png "Has Cr Card Pie")
 
 
-* •	I used a pie chart to visualize the percentages of customers in the bank by country
+* I used a pie chart to visualize the percentages of customers in the bank by country
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/geo_pie.png "Geography Pie")
 
 
