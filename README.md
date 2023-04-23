@@ -31,8 +31,11 @@
 * I removed the following columns that I thought were unnecessary: "RowNumber","CustomerId","Surname"
 * I used get_dummies function for categorical variables
 * I used a pie chart to visualize the churn and non-churn data proportions in the dataset.
+
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/pie_before.png "Pie Before")
+
 * Since there is an 80 - 20 ratio among the data, I will produce synthetic data with SMOTEC to eliminate this skewed distribution.
+
 ![alt text](https://github.com/gamzeaslan/Customer_Churn_Analysis_App/blob/main/pie_after.png "Pie After")
 * I created a retirement column based on the retirement ages of the countries
 * I grouped the Age and CreditScore values
