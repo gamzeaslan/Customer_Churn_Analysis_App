@@ -25,7 +25,7 @@
 
 # Code and Resources Used:
 * **Python Version** : 3.10.9
-* * **Packages** : matplotlib ,seaborn,pandas , imblearn,sklearn , joblib , lightgbm, xgboost and lazypredict
+* **Packages** : matplotlib ,seaborn,pandas , imblearn,sklearn , joblib , lightgbm, xgboost and lazypredict
 
 # Data Cleaning
 * I removed the following columns that I thought were unnecessary: "RowNumber","CustomerId","Surname"
